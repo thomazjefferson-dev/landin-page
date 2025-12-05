@@ -13,7 +13,7 @@ export function Header() {
         <div className="flex lg:flex-1">
           <a href="#" className="-m-1.5 p-1.5">
             <span className="text-2xl font-bold text-foreground">
-              cloud <span className="text-primary">dev</span>
+              Dev <span className="text-primary">Thomaz</span>
             </span>
           </a>
         </div>

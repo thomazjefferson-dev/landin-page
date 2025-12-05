@@ -7,7 +7,7 @@ export function Footer() {
         <div className="flex flex-col items-center justify-between gap-6 sm:flex-row">
           <div className="text-center sm:text-left">
             <p className="text-xl font-bold text-card-foreground">
-              Cloud <span className="text-primary">dev</span>
+              Dev <span className="text-primary">Thomaz</span>
             </p>
             <p className="mt-2 text-sm text-muted-foreground">
               Transformando ideias em soluções digitais
