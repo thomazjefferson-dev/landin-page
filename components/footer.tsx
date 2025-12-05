@@ -41,7 +41,7 @@ export function Footer() {
 
         <div className="mt-8 border-t border-border pt-8 text-center">
           <p className="text-sm text-muted-foreground">
-            © {new Date().getFullYear()} node crie. Todos os direitos
+            © {new Date().getFullYear()} Dev Thomaz Jefferson. Todos os direitos
             reservados.
           </p>
         </div>
