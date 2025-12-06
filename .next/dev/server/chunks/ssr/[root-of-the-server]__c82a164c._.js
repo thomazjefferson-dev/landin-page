@@ -287,10 +287,10 @@ var __TURBOPACK__imported__module__$5b$project$5d2f$components$2f$electric$2d$bo
 ;
 const projects = [
     {
-        title: "E-commerce Fashion",
-        category: "Site Institucional",
+        title: "Sistema Futebol Clube",
+        category: "Sistema Web",
         image: "/modern-fashion-ecommerce-website-with-elegant-prod.jpg",
-        description: "Loja virtual completa com catálogo de produtos, carrinho e checkout integrado"
+        description: "Painel administrativo com gráficos interativos e relatórios personalizados"
     },
     {
         title: "App Delivery",
@@ -338,7 +338,7 @@ function Portfolio() {
                             children: "Nosso Portfólio"
                         }, void 0, false, {
                             fileName: "[project]/components/portfolio.tsx",
-                            lineNumber: 49,
+                            lineNumber: 55,
                             columnNumber: 11
                         }, this),
                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f2e$pnpm$2f$next$40$16$2e$0$2e$7_react$2d$dom$40$19$2e$2$2e$0_react$40$19$2e$2$2e$0_$5f$react$40$19$2e$2$2e$0$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
@@ -346,13 +346,13 @@ function Portfolio() {
                             children: "Projetos que desenvolvemos com excelência e dedicação"
                         }, void 0, false, {
                             fileName: "[project]/components/portfolio.tsx",
-                            lineNumber: 52,
+                            lineNumber: 58,
                             columnNumber: 11
                         }, this)
                     ]
                 }, void 0, true, {
                     fileName: "[project]/components/portfolio.tsx",
-                    lineNumber: 48,
+                    lineNumber: 54,
                     columnNumber: 9
                 }, this),
                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f2e$pnpm$2f$next$40$16$2e$0$2e$7_react$2d$dom$40$19$2e$2$2e$0_react$40$19$2e$2$2e$0_$5f$react$40$19$2e$2$2e$0$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -381,20 +381,20 @@ function Portfolio() {
                                                     className: "object-cover transition-transform duration-500 group-hover:scale-110"
                                                 }, void 0, false, {
                                                     fileName: "[project]/components/portfolio.tsx",
-                                                    lineNumber: 71,
+                                                    lineNumber: 77,
                                                     columnNumber: 21
                                                 }, this),
                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f2e$pnpm$2f$next$40$16$2e$0$2e$7_react$2d$dom$40$19$2e$2$2e$0_react$40$19$2e$2$2e$0_$5f$react$40$19$2e$2$2e$0$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                                                     className: "absolute inset-0 bg-gradient-to-t from-background via-background/20 to-transparent opacity-60"
                                                 }, void 0, false, {
                                                     fileName: "[project]/components/portfolio.tsx",
-                                                    lineNumber: 77,
+                                                    lineNumber: 83,
                                                     columnNumber: 21
                                                 }, this)
                                             ]
                                         }, void 0, true, {
                                             fileName: "[project]/components/portfolio.tsx",
-                                            lineNumber: 70,
+                                            lineNumber: 76,
                                             columnNumber: 19
                                         }, this),
                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f2e$pnpm$2f$next$40$16$2e$0$2e$7_react$2d$dom$40$19$2e$2$2e$0_react$40$19$2e$2$2e$0_$5f$react$40$19$2e$2$2e$0$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -405,7 +405,7 @@ function Portfolio() {
                                                     children: project.category
                                                 }, void 0, false, {
                                                     fileName: "[project]/components/portfolio.tsx",
-                                                    lineNumber: 80,
+                                                    lineNumber: 86,
                                                     columnNumber: 21
                                                 }, this),
                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f2e$pnpm$2f$next$40$16$2e$0$2e$7_react$2d$dom$40$19$2e$2$2e$0_react$40$19$2e$2$2e$0_$5f$react$40$19$2e$2$2e$0$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("h3", {
@@ -413,7 +413,7 @@ function Portfolio() {
                                                     children: project.title
                                                 }, void 0, false, {
                                                     fileName: "[project]/components/portfolio.tsx",
-                                                    lineNumber: 81,
+                                                    lineNumber: 89,
                                                     columnNumber: 21
                                                 }, this),
                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f2e$pnpm$2f$next$40$16$2e$0$2e$7_react$2d$dom$40$19$2e$2$2e$0_react$40$19$2e$2$2e$0_$5f$react$40$19$2e$2$2e$0$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
@@ -421,45 +421,45 @@ function Portfolio() {
                                                     children: project.description
                                                 }, void 0, false, {
                                                     fileName: "[project]/components/portfolio.tsx",
-                                                    lineNumber: 82,
+                                                    lineNumber: 92,
                                                     columnNumber: 21
                                                 }, this)
                                             ]
                                         }, void 0, true, {
                                             fileName: "[project]/components/portfolio.tsx",
-                                            lineNumber: 79,
+                                            lineNumber: 85,
                                             columnNumber: 19
                                         }, this)
                                     ]
                                 }, void 0, true, {
                                     fileName: "[project]/components/portfolio.tsx",
-                                    lineNumber: 69,
+                                    lineNumber: 75,
                                     columnNumber: 17
                                 }, this)
                             }, void 0, false, {
                                 fileName: "[project]/components/portfolio.tsx",
-                                lineNumber: 68,
+                                lineNumber: 74,
                                 columnNumber: 15
                             }, this)
                         }, project.title, false, {
                             fileName: "[project]/components/portfolio.tsx",
-                            lineNumber: 59,
+                            lineNumber: 65,
                             columnNumber: 13
                         }, this))
                 }, void 0, false, {
                     fileName: "[project]/components/portfolio.tsx",
-                    lineNumber: 57,
+                    lineNumber: 63,
                     columnNumber: 9
                 }, this)
             ]
         }, void 0, true, {
             fileName: "[project]/components/portfolio.tsx",
-            lineNumber: 47,
+            lineNumber: 53,
             columnNumber: 7
         }, this)
     }, void 0, false, {
         fileName: "[project]/components/portfolio.tsx",
-        lineNumber: 46,
+        lineNumber: 52,
         columnNumber: 5
     }, this);
 }

@@ -1,45 +1,51 @@
-import Image from "next/image"
-import { Card, CardContent } from "@/components/ui/card"
-import ElectricBorder from "./electric-border"
+import Image from "next/image";
+import { Card, CardContent } from "@/components/ui/card";
+import ElectricBorder from "./electric-border";
 
 const projects = [
   {
-    title: "E-commerce Fashion",
-    category: "Site Institucional",
+    title: "Sistema Futebol Clube",
+    category: "Sistema Web",
     image: "/modern-fashion-ecommerce-website-with-elegant-prod.jpg",
-    description: "Loja virtual completa com catálogo de produtos, carrinho e checkout integrado",
+    description:
+      "Painel administrativo com gráficos interativos e relatórios personalizados",
   },
   {
     title: "App Delivery",
     category: "Aplicativo Mobile",
     image: "/food-delivery-mobile-app-interface-with-modern-ui-.jpg",
-    description: "Aplicativo de delivery com rastreamento em tempo real e pagamento integrado",
+    description:
+      "Aplicativo de delivery com rastreamento em tempo real e pagamento integrado",
   },
   {
     title: "Dashboard Analytics",
     category: "Sistema Web",
     image: "/dark-dashboard-analytics-interface-with-charts-and.jpg",
-    description: "Painel administrativo com gráficos interativos e relatórios personalizados",
+    description:
+      "Painel administrativo com gráficos interativos e relatórios personalizados",
   },
   {
     title: "Landing Page SaaS",
     category: "Landing Page",
     image: "/modern-saas-landing-page-with-gradient-and-clean-d.jpg",
-    description: "Landing page otimizada para conversão com design moderno e responsivo",
+    description:
+      "Landing page otimizada para conversão com design moderno e responsivo",
   },
   {
     title: "App Financeiro",
     category: "Aplicativo Mobile",
     image: "/financial-mobile-app-interface-with-cards-and-tran.jpg",
-    description: "Aplicativo de gestão financeira pessoal com controle de despesas",
+    description:
+      "Aplicativo de gestão financeira pessoal com controle de despesas",
   },
   {
     title: "Portal Imobiliário",
     category: "Site e Sistema",
     image: "/real-estate-portal-website-with-property-listings.jpg",
-    description: "Portal completo para listagem e gestão de propriedades imobiliárias",
+    description:
+      "Portal completo para listagem e gestão de propriedades imobiliárias",
   },
-]
+];
 
 export function Portfolio() {
   return (
@@ -77,9 +83,15 @@ export function Portfolio() {
                     <div className="absolute inset-0 bg-gradient-to-t from-background via-background/20 to-transparent opacity-60" />
                   </div>
                   <div className="p-6 space-y-3">
-                    <p className="text-xs font-semibold uppercase tracking-wider text-primary">{project.category}</p>
-                    <h3 className="text-xl font-bold text-card-foreground">{project.title}</h3>
-                    <p className="text-sm leading-relaxed text-muted-foreground">{project.description}</p>
+                    <p className="text-xs font-semibold uppercase tracking-wider text-primary">
+                      {project.category}
+                    </p>
+                    <h3 className="text-xl font-bold text-card-foreground">
+                      {project.title}
+                    </h3>
+                    <p className="text-sm leading-relaxed text-muted-foreground">
+                      {project.description}
+                    </p>
                   </div>
                 </CardContent>
               </Card>
@@ -88,5 +100,5 @@ export function Portfolio() {
         </div>
       </div>
     </section>
-  )
+  );
 }
